@@ -1,0 +1,20 @@
+Todo:
+
+HIGH: 
+move execution history to own slice
+Add global env
+add globals to log
+Add env editing
+
+step all devices (fwd/bk)
+run all devices
+
+MEDIUM:
+Break on error
+Record error in execution history
+
+LOW: 
+add graph for variables
+toolbar styles
+log styles
+dark mode
